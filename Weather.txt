@@ -1,3 +1,4 @@
+Sunny 72 degrees 9/4
 Sunny 81 degrees 9/3
 Sunny 77 degrees 9/2
 Sunny 64 degrees 9/1 oops forgot some days
