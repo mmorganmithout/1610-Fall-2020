@@ -31,6 +31,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScore.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoverScript.cs" />
       </list>
     </option>
@@ -82,6 +83,7 @@
       <updated>1599236423379</updated>
       <workItem from="1599236428134" duration="14000" />
       <workItem from="1599236565994" duration="4298000" />
+      <workItem from="1599245730268" duration="1112000" />
     </task>
     <servers />
   </component>

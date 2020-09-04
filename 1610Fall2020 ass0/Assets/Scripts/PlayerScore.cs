@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class PlayerScore : MonoBehaviour
 {
+    public int score = 100;
     // Start is called before the first frame update
     void Start()
     {
