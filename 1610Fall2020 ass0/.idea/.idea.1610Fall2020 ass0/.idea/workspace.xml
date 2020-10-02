@@ -29,15 +29,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OldMoverScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScore.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoverScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthPowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AmmoUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OldMoverScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoverScript.cs" />
       </list>
     </option>
   </component>
@@ -90,6 +93,7 @@
       <workItem from="1599236565994" duration="4298000" />
       <workItem from="1599245730268" duration="1112000" />
       <workItem from="1600448214835" duration="945000" />
+      <workItem from="1601654917220" duration="4364000" />
     </task>
     <servers />
   </component>

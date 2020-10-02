@@ -1,36 +1,27 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
+using UnityEditorInternal;
 using UnityEngine;
 
 public class MoverScript : MonoBehaviour
 {
-    public float speed = 3f;
-    public float x, y, z;
-    public int score = 100;
-    // Start is called before the first frame update
-    void Start()
+    public float moveSpeed;
+    private Vector3 moveDirection;
+    
+    
+    public void Update()
     {
-        Debug.Log("Hello World!");
-    }
+        if (Input.GetButton("Jump"))
+        {
+            moveDirection.x = moveSpeed * Time.deltaTime;
+        }
+        else
+        {
+            moveDirection.x = -moveSpeed * Time.deltaTime;
+        }
 
-    // Update is called once per frame
-    void Update()
-    {
-        x = speed*Input.GetAxis("Horizontal")*Time.deltaTime;
-        y = speed*Input.GetAxis("Vertical")*Time.deltaTime;
-        transform.Translate(x,y,z);
-    }
-
-    public void Up()
-    {
-        print("Up");
-        transform.Translate(0,speed,0);
-    }
-
-    public void Down()
-    {
-        print("Down");
-        transform.Translate(0,-speed,0);
+        transform.Translate(moveDirection);
     }
 }
