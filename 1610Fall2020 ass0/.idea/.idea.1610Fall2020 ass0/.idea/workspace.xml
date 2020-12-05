@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForces.cs" />
       </list>
     </option>
   </component>
@@ -97,7 +98,13 @@
       <workItem from="1599245730268" duration="1112000" />
       <workItem from="1600448214835" duration="945000" />
       <workItem from="1601654917220" duration="4364000" />
-      <workItem from="1601663131745" duration="2428000" />
+      <workItem from="1601663131745" duration="2743000" />
+      <workItem from="1607121796036" duration="3000" />
+      <workItem from="1607122064882" duration="1421000" />
+      <workItem from="1607123557403" duration="15000" />
+      <workItem from="1607123633282" duration="32000" />
+      <workItem from="1607124608488" duration="680000" />
+      <workItem from="1607125919542" duration="86000" />
     </task>
     <servers />
   </component>

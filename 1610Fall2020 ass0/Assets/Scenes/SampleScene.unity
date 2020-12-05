@@ -513,6 +513,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 653452380}
+  moveSpeed: 5
+  gravity: -9.81
+  jumpForce: 5
   moveDirection: {x: 0.1, y: -0.1, z: 0}
 --- !u!23 &653452377
 MeshRenderer:
