@@ -48,6 +48,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventsBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/ScripleObjects/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScripleObjects/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -109,7 +111,7 @@
       <workItem from="1607124608488" duration="680000" />
       <workItem from="1607125919542" duration="86000" />
       <workItem from="1607550876381" duration="21000" />
-      <workItem from="1607551039830" duration="2668000" />
+      <workItem from="1607551039830" duration="5845000" />
     </task>
     <servers />
   </component>
