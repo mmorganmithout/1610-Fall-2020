@@ -7,6 +7,13 @@
       <e p="1610Fall2020 ass0.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Old Scripts" t="Include">
+          <e p="PowerUp.cs" t="Include" />
+          <e p="UnityEvents.cs" t="Include" />
+        </e>
+        <e p="ScripleObjects" t="Include">
+          <e p="IntData.cs" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
           <e p="AmmoUp.cs" t="Include" />
           <e p="ApplyForces.cs" t="Include" />
@@ -15,8 +22,7 @@
           <e p="MoverScript.cs" t="Include" />
           <e p="OldMoverScript.cs" t="Include" />
           <e p="PlayerScore.cs" t="Include" />
-          <e p="PowerUp.cs" t="Include" />
-          <e p="UnityEvents.cs" t="Include" />
+          <e p="TriggerEventsBehaviour.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

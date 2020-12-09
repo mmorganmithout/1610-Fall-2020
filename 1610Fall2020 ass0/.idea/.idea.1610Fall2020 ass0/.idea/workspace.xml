@@ -30,6 +30,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OldMoverScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventsBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -43,8 +44,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AmmoUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventsBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScripleObjects/IntData.cs" />
       </list>
     </option>
   </component>
@@ -105,6 +108,8 @@
       <workItem from="1607123633282" duration="32000" />
       <workItem from="1607124608488" duration="680000" />
       <workItem from="1607125919542" duration="86000" />
+      <workItem from="1607550876381" duration="21000" />
+      <workItem from="1607551039830" duration="2668000" />
     </task>
     <servers />
   </component>
