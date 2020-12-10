@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/PhysicGame.unity
+- path: Assets/Scenes/PlayerUI.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

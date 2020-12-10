@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
 [CreateAssetMenu]
 public class FloatData : ScriptableObject
@@ -9,5 +10,15 @@ public class FloatData : ScriptableObject
     {
         value += number;
         Debug.Log(value + " " + this.name);
+    }
+    
+    public void DisplayValue(Image img)
+    {
+        img.fillAmount = value;
+    }
+
+    public void DisplayNumber(Text txt)
+    {
+        txt.text = value.ToString();
     }
 }

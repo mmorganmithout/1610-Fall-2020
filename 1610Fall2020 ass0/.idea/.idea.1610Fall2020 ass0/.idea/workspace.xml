@@ -31,7 +31,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OldMoverScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventsBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthPowerUp.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,8 +47,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventsBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/ScripleObjects/IntData.cs" />
-        <option value="$PROJECT_DIR$/Assets/ScripleObjects/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScripleObjects/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -111,7 +110,7 @@
       <workItem from="1607124608488" duration="680000" />
       <workItem from="1607125919542" duration="86000" />
       <workItem from="1607550876381" duration="21000" />
-      <workItem from="1607551039830" duration="5845000" />
+      <workItem from="1607551039830" duration="7575000" />
     </task>
     <servers />
   </component>
