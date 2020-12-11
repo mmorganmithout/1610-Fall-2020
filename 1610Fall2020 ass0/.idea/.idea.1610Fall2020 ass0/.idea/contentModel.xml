@@ -16,9 +16,11 @@
           <e p="UnityEvents.cs" t="Include" />
         </e>
         <e p="ScripleObjects" t="Include">
+          <e p="BoolData.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="StringData.cs" t="Include" />
+          <e p="StringListData.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="ApplyForces.cs" t="Include" />

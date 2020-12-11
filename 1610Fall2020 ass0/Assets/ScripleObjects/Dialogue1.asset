@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 58f09853746b33f4591cf9e8198f19f5, type: 3}
-  m_Name: What is your quests
+  m_Name: Dialogue1
   m_EditorClassIdentifier: 
-  value: 
+  value: What is your Quest?
