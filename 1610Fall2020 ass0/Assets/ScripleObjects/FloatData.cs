@@ -11,6 +11,11 @@ public class FloatData : ScriptableObject
         value += number;
         Debug.Log(value + " " + this.name);
     }
+
+    public void ReplaceValue(float number)
+    {
+        value = number;
+    }
     
     public void DisplayValue(Image img)
     {
