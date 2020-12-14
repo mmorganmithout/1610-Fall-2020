@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a92df066dc28ed14691d3b9d5fffbfb7, type: 3}
   m_Name: DialogueList
   m_EditorClassIdentifier: 
-  value: []
+  value:
+  - What is your quest?
+  - What is your favorite color?
+  - 
