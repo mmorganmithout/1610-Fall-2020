@@ -32,9 +32,11 @@
           <e p="StringListData.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="AddForceBehaviour.cs" t="Include" />
           <e p="ApplyForces.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="Collections.cs" t="Include" />
+          <e p="CoroutineBehaviour.cs" t="Include" />
           <e p="FlipObjectBehavior.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
