@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Loops.unity
+- path: Assets/Scenes/CharacterFlip.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

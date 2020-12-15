@@ -29,15 +29,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScripleObjects/Defence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScripleObjects/StringListData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlipObjectBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventsBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScripleObjects/StringData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ScripleObjects/StringListData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScripleObjects/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ScripleObjects/DefenceSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ScripleObjects/BoolData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -61,13 +63,18 @@
         <option value="$PROJECT_DIR$/Assets/ScripleObjects/BoolData.cs" />
         <option value="$PROJECT_DIR$/Assets/ScripleObjects/StringListData.cs" />
         <option value="$PROJECT_DIR$/Assets/ScripleObjects/Collectable.cs" />
-        <option value="$PROJECT_DIR$/Assets/ScripleObjects/Collectible.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FlipObjectBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/ScripleObjects/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RotateObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScripleObjects/GameSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScripleObjects/DefenceSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScripleObjects/Collectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScripleObjects/Defence.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI/AIBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -133,7 +140,9 @@
       <workItem from="1607551039830" duration="7575000" />
       <workItem from="1607648248051" duration="2917000" />
       <workItem from="1607712841750" duration="4404000" />
-      <workItem from="1607973733067" duration="7623000" />
+      <workItem from="1607973733067" duration="8228000" />
+      <workItem from="1608058482705" duration="3757000" />
+      <workItem from="1608063930086" duration="286000" />
     </task>
     <servers />
   </component>
